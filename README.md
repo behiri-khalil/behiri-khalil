@@ -1,25 +1,39 @@
-# Hi, I'm Khalil 👋
+# 🖐️ أهلاً، أنا خليل | Behiri Khalil
 
-🎓 Master's student in **Artificial Intelligence** at Université Abou Bekr Belkaïd, Tlemcen, Algeria (2nd year)
-🎓 Licence (Bachelor's) in **Systèmes d'Information**
-💻 Background in full-stack (Node.js, Express, Prisma, PostgreSQL) and mobile development (React Native, Expo)
-🔬 Interested in applied AI — machine learning, deep learning, and NLP for real-world problems
-
----
-
-### 📌 Featured Projects
-
-**[Todo App — React Native + Convex](https://github.com/<your-username>/todo-app)**
-A real-time mobile todo app with a custom dark UI, built to learn Expo Router, Context API, and real-time backend sync with Convex.
-
-**[Tic-Tac-Toe AI — Alpha-Beta Pruning](https://github.com/<your-username>/tictactoe-alphabeta)**
-An optimal game-playing agent using Minimax with Alpha-Beta pruning, with a Flask API and benchmarked search-space reduction. Built for a Game Theory course project.
+<p align="center">
+  <b>مطور تطبيقات وطالب ماستر في الذكاء الاصطناعي مهتم ببناء أنظمة برمجية وحلول ذكية متكاملة.</b>
+</p>
 
 ---
 
-### 🛠️ Tech Stack
-`Python` · `JavaScript/TypeScript` · `React Native` · `Node.js` · `Express` · `PostgreSQL` · `Flask` · `Convex`
+### 🚀 عني (About Me)
+- 🎓 أدرس حالياً ماستر في الذكاء الاصطناعي (**Artificial Intelligence**).
+- 📱 أركز على تطوير تطبيقات الجوال والأنظمة البرمجية باستخدام **React Native** و **Node.js**.
+- 🤖 مهتم بتقنيات **Machine Learning** و **Deep Learning** و **Multi-Agent Systems**.
+- 🛠️ أعمل على بناء حلول برمجية تجمع بين واجهات المستخدم الحديثة والخلفيات البرمجية القوية.
 
-### 📫 Contact
-- LinkedIn: <your-linkedin-url>
-- Email: <your-email>
+---
+
+### 🛠️ التقنيات والأدوات (Skills & Tools)
+
+**اللغات والأنظمة:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**تطوير التطبيقات والخلفية البرمجية:**
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### 📊 إحصائيات GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=behiri-khalil&show_icons=true&theme=tokyonight&hide_border=true" alt="Behiri Khalil Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behiri-khalil&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
