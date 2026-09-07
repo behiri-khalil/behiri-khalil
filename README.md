@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Khalil 👋
 
-<!--
-**behiri-khalil/behiri-khalil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's student in **Artificial Intelligence** at Université Abou Bekr Belkaïd, Tlemcen, Algeria (2nd year)
+🎓 Licence (Bachelor's) in **Systèmes d'Information**
+💻 Background in full-stack (Node.js, Express, Prisma, PostgreSQL) and mobile development (React Native, Expo)
+🔬 Interested in applied AI — machine learning, deep learning, and NLP for real-world problems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects
+
+**[Todo App — React Native + Convex](https://github.com/<your-username>/todo-app)**
+A real-time mobile todo app with a custom dark UI, built to learn Expo Router, Context API, and real-time backend sync with Convex.
+
+**[Tic-Tac-Toe AI — Alpha-Beta Pruning](https://github.com/<your-username>/tictactoe-alphabeta)**
+An optimal game-playing agent using Minimax with Alpha-Beta pruning, with a Flask API and benchmarked search-space reduction. Built for a Game Theory course project.
+
+---
+
+### 🛠️ Tech Stack
+`Python` · `JavaScript/TypeScript` · `React Native` · `Node.js` · `Express` · `PostgreSQL` · `Flask` · `Convex`
+
+### 📫 Contact
+- LinkedIn: <your-linkedin-url>
+- Email: <your-email>
