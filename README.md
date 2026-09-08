@@ -68,19 +68,19 @@ AI Master's student building intelligent, full-stack applications — from mobil
 **[Wallet API](https://github.com/behiri-khalil/wallet-api)**
 REST API for a personal finance/wallet app — Node.js, Express, PostgreSQL (Neon), Redis rate limiting.
 
-**[Todo App — React Native + Convex](https://github.com/behiri-khalil/todo-app)**
+**[Todo App — React Native + Convex](https://github.com/behiri-khalil/Todo_app)**
 A real-time mobile todo app with a custom dark UI, built with Expo Router and Convex.
 
-**[Tic-Tac-Toe AI — Alpha-Beta Pruning](https://github.com/behiri-khalil/tictactoe-alphabeta)**
-An optimal game-playing agent using Minimax with Alpha-Beta pruning, built for a Game Theory course project.
+**[Tic-Tac-Toe AI — Alpha-Beta Pruning](https://github.com/behiri-khalil/tic-tac-toe-alphabeta)**
+An optimal game-playing agent using Minimax with Alpha-Beta pruning, with a web arena for testing. Built for a Game Theory course project.
 
 <hr>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=behiri-khalil&show_icons=true&theme=dracula" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behiri-khalil&layout=compact&theme=dracula" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=behiri-khalil&show_icons=true&theme=dracula&cache_seconds=0" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behiri-khalil&layout=compact&theme=dracula&cache_seconds=0" width="48%" />
 </p>
 
 <hr>
